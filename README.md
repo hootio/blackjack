@@ -1,3 +1,3 @@
 # blackjack 🂫
 
-Deck of cards package for various languages (inspired by https://github.com/gophercises/deck)
+A CLI based game of Blackjack written in Rust
