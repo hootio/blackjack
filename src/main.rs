@@ -11,7 +11,7 @@ Welcome to Blackjack, by hootio!
 
 Rules:
 -   Deck count: {}
--   Dealer hits on soft 17
+-   Dealer stands on 17
 ",
         deck_count
     );

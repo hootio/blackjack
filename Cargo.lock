@@ -25,7 +25,7 @@ checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 [[package]]
 name = "deck"
 version = "0.1.0"
-source = "git+https://github.com/hootio/deck?branch=main#9b851e0f694ad0b6fbefd1610dbba1f746be5ec8"
+source = "git+https://github.com/hootio/deck?branch=main#f59a579cf5ce08b262046775d996c07ef011d0ef"
 dependencies = [
  "rand",
  "strum",
