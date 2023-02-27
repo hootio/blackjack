@@ -11,8 +11,6 @@ pub struct Game {
     dealer_hand: Deck,
     player_standing: bool,
     dealer_standing: bool,
-    player_total: u8,
-    dealer_total: u8,
 }
 
 impl Game {
@@ -25,8 +23,6 @@ impl Game {
             dealer_hand: Deck::new_empty(),
             player_standing: false,
             dealer_standing: false,
-            player_total: 0,
-            dealer_total: 0,
         }
     }
 
